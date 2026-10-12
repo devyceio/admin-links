@@ -1,12 +1,12 @@
 [
-	{ "title": "Admin Portal", "url": "https://admin.devyce.net/" },
-	{ "title": "Call Tracer", "url": "https://calltracer.devyce.net/" },
-	{ "title": "Sidekick Ops", "url": "https://app-devyce-sidekickops-prod.azurewebsites.net/" },
-	{ "title": "Curator Ops", "url": "https://app-devyce-curatorops-prod.azurewebsites.net/" },
-	{ "title": "Billing Ops", "url": "https://app-devyce-billingops-prod.azurewebsites.net/" },
-	{ "title": "Live Agent Dashboard", "url": "https://app-devyce-liveagent-prod.azurewebsites.net/" },
-	{ "title": "Live Agent Ops", "url": "https://liveagentops.devyce.net/" },
-	{ "title": "Watchtower", "url": "https://salmon-river-09111ba03.7.azurestaticapps.net/graph" },
-	{ "title": "User Status Ops", "url": "https://app-devyce-userstatusops-prod.azurewebsites.net/" },
-	{ "title": "Quartermaster", "url": "https://victorious-mud-071876003.3.azurestaticapps.net/" }
+	{ "title": "Admin Portal", "description": "Your hub for Devyce administration", "url": "https://admin.devyce.net/" },
+	{ "title": "Call Tracer", "description": "Trace calls and investigate issues", "url": "https://calltracer.devyce.net/" },
+	{ "title": "Sidekick Ops", "description": "", "url": "https://app-devyce-sidekickops-prod.azurewebsites.net/" },
+	{ "title": "Curator Ops", "description": "Track GDPR redaction operations", "url": "https://app-devyce-curatorops-prod.azurewebsites.net/" },
+	{ "title": "Billing Ops", "description": "Keep billing operations on track", "url": "https://app-devyce-billingops-prod.azurewebsites.net/" },
+	{ "title": "Live Agent Dashboard", "description": "Live Agent activity at a glance", "url": "https://app-devyce-liveagent-prod.azurewebsites.net/" },
+	{ "title": "Live Agent Ops", "description": "", "url": "https://liveagentops.devyce.net/" },
+	{ "title": "Watchtower", "description": "Devyce's service map", "url": "https://salmon-river-09111ba03.7.azurestaticapps.net/graph" },
+	{ "title": "User Status Ops", "description": "Keep track of user status", "url": "https://app-devyce-userstatusops-prod.azurewebsites.net/" },
+	{ "title": "Quartermaster", "description": "View NuGet package dependencies and origins", "url": "https://victorious-mud-071876003.3.azurestaticapps.net/" }
 ]
