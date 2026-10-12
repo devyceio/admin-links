@@ -1,0 +1,12 @@
+[
+	{ "title": "Admin Portal", "url": "https://admin.devyce.net/" },
+	{ "title": "Call Tracer", "url": "https://calltracer.devyce.net/" },
+	{ "title": "Sidekick Ops", "url": "https://app-devyce-sidekickops-prod.azurewebsites.net/" },
+	{ "title": "Curator Ops", "url": "https://app-devyce-curatorops-prod.azurewebsites.net/" },
+	{ "title": "Billing Ops", "url": "https://app-devyce-billingops-prod.azurewebsites.net/" },
+	{ "title": "Live Agent Dashboard", "url": "https://app-devyce-liveagent-prod.azurewebsites.net/" },
+	{ "title": "Live Agent Ops", "url": "https://liveagentops.devyce.net/" },
+	{ "title": "Watchtower", "url": "https://salmon-river-09111ba03.7.azurestaticapps.net/graph" },
+	{ "title": "User Status Ops", "url": "https://app-devyce-userstatusops-prod.azurewebsites.net/" },
+	{ "title": "Quartermaster", "url": "https://victorious-mud-071876003.3.azurestaticapps.net/" }
+]
