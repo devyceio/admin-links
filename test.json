@@ -1,11 +1,11 @@
 [
-	{ "title": "Admin Portal", "url": "https://admin.devycetest.net/" },
-	{ "title": "Call Tracer", "url": "https://calltracer.devycetest.net/" },
-	{ "title": "Sidekick Ops", "url": "https://app-devyce-sidekickops-test.azurewebsites.net/" },
-	{ "title": "Curator Ops", "url": "https://curatorops.devycetest.net/" },
-	{ "title": "Billing Ops", "url": "https://app-devyce-billingops-test.azurewebsites.net/" },
-	{ "title": "Live Agent Ops", "url": "https://liveagentops.devycetest.net/" },
-	{ "title": "Watchtower", "url": "https://white-ocean-0e09a8c03.7.azurestaticapps.net/" },
-	{ "title": "User Status Ops", "url": "https://app-devyce-userstatusops-test.azurewebsites.net/" },
-	{ "title": "Quartermaster", "url": "https://victorious-mud-071876003.3.azurestaticapps.net/" }
+	{ "title": "Admin Portal", "description": "Your hub for Devyce administration", "url": "https://admin.devycetest.net/" },
+	{ "title": "Call Tracer", "description": "Trace calls and investigate issues", "url": "https://calltracer.devycetest.net/" },
+	{ "title": "Sidekick Ops", "description": "", "url": "https://app-devyce-sidekickops-test.azurewebsites.net/" },
+	{ "title": "Curator Ops", "description": "Track GDPR redaction operations", "url": "https://curatorops.devycetest.net/" },
+	{ "title": "Billing Ops", "description": "Keep billing operations on track", "url": "https://app-devyce-billingops-test.azurewebsites.net/" },
+	{ "title": "Live Agent Ops", "description": "", "url": "https://liveagentops.devycetest.net/" },
+	{ "title": "Watchtower", "description": "Devyce's service map", "url": "https://white-ocean-0e09a8c03.7.azurestaticapps.net/" },
+	{ "title": "User Status Ops", "description": "Keep track of user status", "url": "https://app-devyce-userstatusops-test.azurewebsites.net/" },
+	{ "title": "Quartermaster", "description": "View NuGet package dependencies and origins", "url": "https://victorious-mud-071876003.3.azurestaticapps.net/" }
 ]
