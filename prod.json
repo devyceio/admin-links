@@ -40,6 +40,11 @@
     "url": "https://salmon-river-09111ba03.7.azurestaticapps.net/graph"
   },
   {
+    "title": "Lookout",
+    "description": "Keep watch on service health",
+    "url": "https://lookout.devyce.net/"
+  },
+  {
     "title": "User Status Ops",
     "description": "Keep track of user status",
     "url": "https://userstatusops.devyce.net/"
