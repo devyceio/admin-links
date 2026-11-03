@@ -35,6 +35,11 @@
     "url": "https://white-ocean-0e09a8c03.7.azurestaticapps.net/"
   },
   {
+    "title": "Lookout",
+    "description": "Keep watch on service health",
+    "url": "https://lookout.devycetest.net/"
+  },
+  {
     "title": "User Status Ops",
     "description": "Keep track of user status",
     "url": "https://userstatusops.devycetest.net/"
